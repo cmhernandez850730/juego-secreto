@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];//guardar en la lista cada numero generado y no volverlo a repetir
-let numeroMaximo = 10;//NUMERO  AMXIMO A GENERAR SECRETO
+let numeroMaximo = 10;//NUMERO  AMXIMO A GENERAR SECRETOO
 
 
 
